@@ -2,8 +2,8 @@
 
 This Theme is in Development is not a Final Project!
 
-Status
------------- | -------------
+Status </br>
+------------ | ------------- </br>
 :heavy_check_mark: | Installing Development Tools </br>
 :heavy_check_mark: | Navigational Bar </br>
 :heavy_check_mark: | 404 Page </br>
