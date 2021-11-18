@@ -16,4 +16,3 @@ Status </br>
 :heavy_check_mark: | Pages (About & Contact) </br>
 :heavy_check_mark: | Advanced Product Page </br>
 :heavy_check_mark: | Search Page </br>
-:hourglass: | More lessons coming </br>
